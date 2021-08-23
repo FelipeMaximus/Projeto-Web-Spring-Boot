@@ -1,4 +1,4 @@
-# Sistema-Lista de Eventos-em-Java-Web-Spring-Boot
+# Sistema de Lista de Eventos em Java Web-Spring-Boot
 Projeto Web Spring Boot com Hibernate
 
 Este projeto foi criado visando um sistema de cadastro de eventos, comercial ou afins.
