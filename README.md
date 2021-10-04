@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/53831498/135887303-ff7e26e3-1156-4c7a-9f75-bd0fa683b726.png)
+<h1 align="center"><img src="https://user-images.githubusercontent.com/53831498/135899352-1463af04-5098-4741-bc8a-78c0877e1f96.png"></h1>
 
 # Sistema de Lista de Eventos em Java Web-Spring Boot
 Projeto Web Spring Boot com Hibernate
