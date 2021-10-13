@@ -15,13 +15,13 @@ Este projeto foi criado visando um sistema de cadastro de eventos, comercial ou 
 
 # Projeto Java Web usando Spring Boot - Hibernate - JDBC
 
-## Deploy on Vercel
-
-[Click aqui](https://eventoapponline.herokuapp.com/) para ver a live preview deste projeto.
-
   - [x] Cadastro de evento 
   - [x] Lista de eventos
   - [x] Cadastro de convidado
+
+## Deploy on Vercel
+
+[Click aqui](https://eventoapponline.herokuapp.com/) para ver a live preview deste projeto.
 
 # Projeto java web com integração de framework.
 
