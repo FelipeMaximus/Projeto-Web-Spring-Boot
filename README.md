@@ -19,9 +19,9 @@ Este projeto foi criado visando um sistema de cadastro de eventos, comercial ou 
   - [x] Lista de eventos
   - [x] Cadastro de convidado
 
-## Deploy on Vercel
+## Deploy on Render
 
-[Click aqui](https://eventoapponline.herokuapp.com/) para ver a live preview deste projeto.
+[Click aqui](https://eventoapp-glr6.onrender.com/eventos) para ver a live preview deste projeto.
 
 # Projeto java web com integração de framework.
 
